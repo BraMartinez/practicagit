@@ -1,1 +1,1 @@
-console.log("Proyecto 2")
+console.log("Proyecto 2, aprendiendo PHP")
